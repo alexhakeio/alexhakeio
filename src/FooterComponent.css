@@ -1,0 +1,15 @@
+.sm-spacing span {
+  padding: 3px;
+}
+
+a .fa {
+	color: #333;
+}
+
+a:hover .fa {
+	color: #555;
+}
+
+.sm-spacing {
+  float: right;
+}

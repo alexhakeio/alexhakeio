@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+* {
+  font-size: 1.7rem;
+}
+
+.post-container {
+  padding: 10px;
+  margin: 10px;
+  background-color: #f5f5f5;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+}
+
+.post-title {
+  padding: 10px;
+  margin: 10px;
+  background-color: #e7e7e7;
+  border-radius: 3px;
+}
+
+.pad-for-nav {
+  margin-top: 85px;
+}
+.main-container {
+  padding: 10px;
+  margin: 10px;
+  background-color: #f5f5f5;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+}
